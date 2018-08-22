@@ -1,4 +1,4 @@
-# test_vuforia
+# Test vuforia
 Test android app for vuforia image target
 
 Print this to test app:
